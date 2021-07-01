@@ -133,7 +133,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(255, 255, 255, .6);
+    color:white;
 }
 
 .d-bloc .a-btn:hover,
@@ -360,6 +360,10 @@ a:hover {
     float: right;
     position: relative;
     z-index: 2;
+}
+
+.avis{
+    font-size: 1.5em;
 }
 
 @media (min-width: 768px) {
@@ -771,15 +775,15 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #ee966ebe;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color:#F3976C!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #ee966ebe;
     color: #FFFFFF!important;
 }
 
