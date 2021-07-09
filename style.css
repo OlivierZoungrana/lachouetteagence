@@ -25,6 +25,11 @@ a:focus{
     color: #c27956;
 }
 
+.titre-formulaire{
+    font-size: 2em;
+    font-weight: 700;
+}
+
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
@@ -754,7 +759,6 @@ h4 {
 
 .white {
     color: #FFFFFF!important;
-    font-weight: 700;
 }
 
 .portfolio-thumb {
@@ -797,7 +801,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #ee966ebe;
+    background: #c27956;
     color: #FFFFFF!important;
 }
 
