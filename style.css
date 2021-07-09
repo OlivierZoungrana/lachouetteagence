@@ -18,11 +18,11 @@ a:hover {
     cursor: pointer;
 }
 
-a:focus-visible{
+a:focus{
     text-decoration: none;
     cursor:pointer;
-    outline-offset: 4px;
-    outline: 3px solid aquamarine;
+    outline-offset: 2px;
+    color: #c27956;
 }
 
 #page-loading-blocs-notifaction {
@@ -788,7 +788,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #ee966ebe;
+    background-color: #c27956;;
 }
 
 .tc-white {
