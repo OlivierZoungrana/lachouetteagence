@@ -25,6 +25,7 @@ a:hover {
     font-weight: 700;
 }
 
+
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
@@ -793,7 +794,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color:#e6a587;
+    background-color:#c0653e;
 }
 
 .tc-white {
