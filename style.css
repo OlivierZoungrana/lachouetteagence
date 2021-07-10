@@ -760,6 +760,8 @@ h4 {
 
 .white {
     color: #FFFFFF!important;
+    font-weight: 700;
+    font-size: 14px;
 }
 
 .portfolio-thumb {
@@ -802,7 +804,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #e6a587;
+    background-color:#c0653e;
     color: #FFFFFF!important;
 }
 
